@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+databases
+pydantic
+python-dotenv
+psycopg2-binary
+google-adk
+google-genai
+websockets
+google-adk
